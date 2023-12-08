@@ -1,7 +1,8 @@
 # YOLOV5_OpenCV_Task
 In this task, I used the YOLOV5 model to use in  object detection on image.
 
-https://github.com/ultralytics/yolov5 
+https://github.com/ultralytics/yolov5
+
 I used the yolov5 repo to download pretrained model.
 https://github.com/ultralytics/yolov5/releases/download/v7.0/yolov5m.pt
 
